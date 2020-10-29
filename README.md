@@ -1,1 +1,1 @@
-# TSTestCourse
+# Typescript unit testing
